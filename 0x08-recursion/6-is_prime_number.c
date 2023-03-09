@@ -11,7 +11,7 @@ int is_prime_number(int n);
  * Return: If the number is divisible - 0.
  * If the number is not divisible - 1.
  *
- * Author: Silas Mugambi
+ * Author: Godfrey
  */
 int is_divisible(int num, int div)
 {
